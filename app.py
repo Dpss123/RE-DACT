@@ -222,6 +222,6 @@ if uploaded_file is not None:
 
 # In[14]:
 
+streamlit run app.py
 
-get_ipython().system('streamlit run app.py')
 
