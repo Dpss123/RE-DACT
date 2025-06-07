@@ -222,6 +222,6 @@ if uploaded_file is not None:
 
 # In[14]:
 
-streamlit run app.py
+! streamlit run app.py
 
 
