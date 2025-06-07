@@ -1,0 +1,9 @@
+streamlit
+python-docx
+PyPDF2
+reportlab
+pillow
+pytesseract
+opencv-python-headless
+numpy
+moviepy
