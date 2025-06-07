@@ -1,10 +1,11 @@
 streamlit
+pdfplumber
+fpdf
+pytesseract
 python-docx
+Pillow
 PyPDF2
 reportlab
-pillow
-pytesseract
 opencv-python-headless
-numpy
 moviepy
-pdfplumber
+numpy
